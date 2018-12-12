@@ -79,8 +79,8 @@ namespace Projeto_AI.Data
                 //50
                 new DispositivoEletronico{Nome = "Samsung Galaxy Gt-S6810P", Ano=2013, Marca_Final="Samsung", Estado_Final="Muito Bom", Acessorios=true, IncidentesAquaticos=false, Preco= 39.90} ,
                 new DispositivoEletronico{Nome = "Samsung Galaxy J6 DUOS", Ano=2018, Marca_Final="Samsung", Estado_Final="Muito Bom", Acessorios=true, IncidentesAquaticos=false, Preco= 169.99} ,
-                new DispositivoEletronico{Nome = "Huawei Mate 20 Pro", Ano=2018, Marca_Final="Huawei", Estado_Final="Muito Bom", Acessorios=true, IncidentesAquaticos=false, Preco= 940.90} ,
-                new DispositivoEletronico{Nome = "Huawei Mate 20 Pro", Ano=2018, Marca_Final="Huawei", Estado_Final="Muito Bom", Acessorios=true, IncidentesAquaticos=false, Preco= 940.90} ,
+                new DispositivoEletronico{Nome = "IPhone 3 GS", Ano=2009, Marca_Final="Apple", Estado_Final="Muito Mau", Acessorios=true, IncidentesAquaticos=false, Preco= 29.99} ,
+                new DispositivoEletronico{Nome = "Microsoft lumia 535", Ano=2014, Marca_Final="Microsoft", Estado_Final="Muito Bom", Acessorios=true, IncidentesAquaticos=false, Preco= 940.90} ,
                 new DispositivoEletronico{Nome = "Huawei Mate 20 Pro", Ano=2018, Marca_Final="Huawei", Estado_Final="Muito Bom", Acessorios=true, IncidentesAquaticos=false, Preco= 940.90} ,
                 new DispositivoEletronico{Nome = "Huawei Mate 20 Pro", Ano=2018, Marca_Final="Huawei", Estado_Final="Muito Bom", Acessorios=true, IncidentesAquaticos=false, Preco= 940.90} ,
                 new DispositivoEletronico{Nome = "Huawei Mate 20 Pro", Ano=2018, Marca_Final="Huawei", Estado_Final="Muito Bom", Acessorios=true, IncidentesAquaticos=false, Preco= 940.90} ,
